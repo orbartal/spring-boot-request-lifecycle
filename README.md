@@ -23,5 +23,7 @@ It can all be customized by the developer.
 ## Data sources:
 
 https://stackoverflow.com/questions/11507477/spring-web-flow-how-is-a-request-handled
+
 https://jakubstas.com/spring-professional-study-notes/#.WUaMx2jytzo 
+
 https://examples.javacodegeeks.com/enterprise-java/spring/mvc/spring-mvc-interceptor-tutorial/
