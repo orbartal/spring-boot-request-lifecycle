@@ -37,4 +37,6 @@ https://examples.javacodegeeks.com/enterprise-java/spring/mvc/spring-mvc-interce
 
 ### Spring Boot architecture
 
+http://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/
+
 http://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/
